@@ -1,6 +1,7 @@
 # Experiencia-2-Caso-Ecomarket-SPA
 
 localhost:8080/api/cliente
+```
 {
   "nombre": "Julio Villablanca",
   "email": "juli.vi@gmail.com",
@@ -39,3 +40,4 @@ localhost:8080/api/productos
   "precio":1500,
   "stock":10
 }
+```
